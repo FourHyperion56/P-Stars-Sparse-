@@ -35,7 +35,7 @@ def plotCurves():
     """
 
     # Load the CSV file into a DataFrame
-    file_path = DATA_DIR3  # Replace with the path to your CSV file
+    file_path = DATA_DIR3 
     data = pd.read_csv(file_path)
 
     # Get unique values in the "ID" column
@@ -52,7 +52,7 @@ def plotCurves():
         frequency_values = data[ERROR_BARS]
 
         # Create a scatter plot for the current ID
-        plt.figure(figsize=(10, 6))  # Adjust the figure size as needed
+        plt.figure(figsize=(10, 6)) 
         plt.scatter(dec_values, mag_values, c='blue', marker='o', s=10)  # Customize the scatter plot appearance
 
         # Create data bars using plt.bar
