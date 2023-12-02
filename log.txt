@@ -1,0 +1,16 @@
+DataLog:
+
+11/25/23
+
+//////////////////////////////////
+// Inspection for Relationships //
+//////////////////////////////////
+
+    First, I am consiering how MAD (median of the absolute difference of each point from the median) and Chi2 relate to one another. If we see patterns across similar objects, 
+    then there is likely an underlying relationship between them that we can use to classify the stars. 
+
+    Google Doc including Graphs: 
+    https://docs.google.com/document/d/1i-Rbua1fThL2J3I8-DEC2GPSqGeBM49H56HjFCjDfgY/edit?usp=sharing
+
+
+
