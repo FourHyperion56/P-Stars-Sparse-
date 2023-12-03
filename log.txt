@@ -14,3 +14,8 @@ DataLog:
 
 
 
+ 12/02/23
+
+    We created the K-meanClustering.py program that calculates the cluster of data points across MAD and Chi2. I would like to gain a deeper understanding of the program 
+    in the future. Furthermore, we see that the position of the centroids seem to have a pattern across clusters per id. May be something to look into when using a smaller
+    dataset. 
