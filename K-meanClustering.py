@@ -110,7 +110,7 @@ def newClusterPlotter():
         for i in range(optimal_clusters):
             plt.scatter(X[labels == i, 0], X[labels == i, 1], s=100, c=colors[i], label=f'Cluster {i + 1}')
 
-        plt.scatter(centroids[:, 0], centroids[:, 1], s=300, c='black', marker='chi2', label='Centroids')
+        plt.scatter(centroids[:, 0], centroids[:, 1], s=300, c='black', marker='x', label='Centroids')
         plt.title(f'Clusters for Dataset ID {dataset_id}')
         plt.xlabel('chi2')
         plt.ylabel('mad')
