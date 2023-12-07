@@ -19,3 +19,8 @@ DataLog:
     We created the K-meanClustering.py program that calculates the cluster of data points across MAD and Chi2. I would like to gain a deeper understanding of the program 
     in the future. Furthermore, we see that the position of the centroids seem to have a pattern across clusters per id. May be something to look into when using a smaller
     dataset. 
+1. Plot the light curve, mad--t, with mean to see how much it deviates from mean
+2. Plot a histogram to see how many 
+how VAE works https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73 
+https://towardsdatascience.com/variational-auto-encoders-fc701b9fc569
+For small samples, we want to start from simple models to prevent overfitting.
